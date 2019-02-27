@@ -26,7 +26,7 @@ namespace Task_13
         }
 
         /// <summary>
-        /// Метод ГПСЧ 1 до 99
+        /// Метод ГПСЧ от 1 до 99
         /// </summary>
         /// <returns></returns>
         static int RandN()
